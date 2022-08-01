@@ -7,7 +7,7 @@ How to build a Strong [Data Science Portfolio](https://kanger.dev/how-build-data
 
 [Data Analyst Skills](https://kanger.dev/data-analyst-skills/) for Beginners
 
-##Statistics and Math
+Statistics and Math
 
 Essential [Statistics for Data Science](https://kanger.dev/basic-statistics-for-data-science-concepts-guide/) - Study Guide
 
