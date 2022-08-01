@@ -3,7 +3,7 @@ Data Science Resources (Study Guides)
 
 **Skills Guide**
 
-How to build a Strong [Data Science Portfolio](https://kanger.dev/how-build-data-science-portfolio/))
+How to build a Strong [Data Science Portfolio](https://kanger.dev/how-build-data-science-portfolio/)
 
 [Data Scientist Skills](https://kanger.dev/data-scientist-skills/)
 
