@@ -1,5 +1,6 @@
-# data-science-stack
-Data Science Resources (Study Guides)
+# Data Science Stack
+
+Updated Data Science Resources (Study Guides) by [kanger.dev](https://kanger.dev)
 
 **Skills Guide**
 
@@ -7,7 +8,7 @@ How to build a Strong [Data Science Portfolio](https://kanger.dev/how-build-data
 
 [Data Scientist Skills](https://kanger.dev/data-scientist-skills/)
 
-[Data Analyst Skills](https://kanger.dev/data-analyst-skills/) for Beginners
+[Data Analyst Skills](https://kanger.dev/data-analyst-skills/) for BeginnersCancel changes
 
 **Statistics and Math
 **
