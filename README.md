@@ -19,28 +19,22 @@ Essential Concepts - [Basic Statistics for Data Science](https://kanger.dev/basi
 3. [Statistics with R](https://kanger.dev/data-science-statistics-r-programming/) for Data Science
 
 
-[ Basic Math for Data Science](https://kanger.dev/basic-math-for-data-science-mathematics-courses/) Beginners Guide
+Basic [Math for Data Science](https://kanger.dev/basic-math-for-data-science-mathematics-courses/) Beginners Guide
 
+Books : [Math books for Data Science](https://news.kanger.dev/book-series/mathematics)
 
 Master [SQL for Data Science](https://kanger.dev/learn-best-sql-courses-data-science/)
 
-
-[Pandas for Data Science](https://kanger.dev/data-science-pandas-machine-learning/) and Machine Learning
-
-
-Learn [Jupyter Notebook for Data Science](https://kanger.dev/data-science-jupyter-notebook-machine-learning/)
-
-
 Best [Python for Data Science](https://kanger.dev/learn-python-data-science-courses/)
-
-
-Top [R Courses for Data Science](https://kanger.dev/r-for-data-science-courses/)
-
 
 Spatial Analysis and [GeoSpatial Data Science](https://kanger.dev/learn-geo-spatial-analysis-gis-python-r-courses/)
 
+Learn [Pandas for Data Science](https://kanger.dev/data-science-pandas-machine-learning/) and Machine Learning
+
+Learn [Jupyter Notebook for Data Science](https://kanger.dev/data-science-jupyter-notebook-machine-learning/)
+
+Best [R Courses for Data Science](https://kanger.dev/r-for-data-science-courses/)
 
 Learn [Data Visualization with Tableau](https://kanger.dev/learn-data-visualization-courses-tableau/)
-
 
 For latest updates check 👉🏾 https://kanger.dev/stacks/data-science/
