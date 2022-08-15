@@ -21,7 +21,7 @@ Essential Concepts - [Basic Statistics for Data Science](https://kanger.dev/basi
 
 Basic [Math for Data Science](https://kanger.dev/basic-math-for-data-science-mathematics-courses/) Beginners Guide
 
-Books : [Math books for Data Science](https://news.kanger.dev/book-series/mathematics)
+* Books : [Math books for Data Science](https://news.kanger.dev/book-series/mathematics)
 
 Master [SQL for Data Science](https://kanger.dev/learn-best-sql-courses-data-science/)
 
