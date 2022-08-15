@@ -12,14 +12,14 @@ How to build a Strong [Data Science Portfolio](https://kanger.dev/how-build-data
 
 **Statistics and Math**
 
-Essential [Statistics for Data Science](https://kanger.dev/basic-statistics-for-data-science-concepts-guide/) - Beginners Guide
+Essential Concepts - [Basic Statistics for Data Science](https://kanger.dev/basic-statistics-for-data-science-concepts-guide/) - Beginners Guide
 
 1. Probability and [Statistics for Data Science Courses](https://kanger.dev/learn-statistics-for-data-science-courses/) - Non-programmers
 2. Computational [Statistics with Python Courses](https://kanger.dev/computational-statistics-python-courses/)
 3. [Statistics with R](https://kanger.dev/data-science-statistics-r-programming/) for Data Science
 
 
-Basic [Math for Data Science](https://kanger.dev/basic-math-for-data-science-mathematics-courses/) Beginners Guide
+[ Basic Math for Data Science](https://kanger.dev/basic-math-for-data-science-mathematics-courses/) Beginners Guide
 
 
 Master [SQL for Data Science](https://kanger.dev/learn-best-sql-courses-data-science/)
