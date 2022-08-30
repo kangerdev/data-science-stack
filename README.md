@@ -23,6 +23,8 @@ Basic [Math for Data Science](https://kanger.dev/basic-math-for-data-science-mat
 
 * Books : [Math books for Data Science](https://news.kanger.dev/book-series/mathematics)
 
+Learn [TensorFlow for Data Science](https://kanger.dev/tensorflow-courses/)
+
 Master [SQL for Data Science](https://kanger.dev/learn-best-sql-courses-data-science/)
 
 Best [Python for Data Science](https://kanger.dev/learn-python-data-science-courses/)
@@ -37,4 +39,8 @@ Best [R Courses for Data Science](https://kanger.dev/r-for-data-science-courses/
 
 Learn [Data Visualization with Tableau](https://kanger.dev/learn-data-visualization-courses-tableau/)
 
-For latest updates check 👉🏾 https://kanger.dev/stacks/data-science/
+Data Science Stack 👉🏾 https://kanger.dev/stacks/data-science/
+
+Machine Learning Stack 👉 https://kanger.dev/stacks/machine-learning/
+
+
