@@ -27,7 +27,7 @@ Learn [TensorFlow for Data Science](https://kanger.dev/tensorflow-courses/)
 
 Master [SQL for Data Science](https://kanger.dev/learn-best-sql-courses-data-science/)
 
-Best [Python for Data Science](https://kanger.dev/learn-python-data-science-courses/)
+Best [Python for Data Science](https://kanger.dev/learn-python-data-science-courses/) Courses
 
 Spatial Analysis and [GeoSpatial Data Science](https://kanger.dev/learn-geo-spatial-analysis-gis-python-r-courses/)
 
