@@ -3,7 +3,7 @@
 Updated Data Science Resources (Study Guides) by [kanger.dev](https://kanger.dev)
 
 
-**Statistics and Math**
+**Statistics for Data Science**
 
 Statistical Programming
 
@@ -15,7 +15,7 @@ Statistical Programming
 
 * [Statistics with R](https://kanger.dev/data-science-statistics-r-programming/) for Data Science
 
-Mathematics
+**Mathematics For Data Science**
 
 * Basic [Math for Data Science](https://kanger.dev/basic-math-for-data-science-mathematics-courses/) Beginners Guide
 
@@ -29,14 +29,6 @@ Mathematics
 * [Python for Data Science](https://kanger.dev/learn-python-for-data-science-beginners-guide/): A Beginner's Study Guide
 
 * [Python for Beginners](https://kanger.dev/programming-python-for-beginners-career-guide/) Career Guide
-
-**Skills Guide**
-
-* How to [Build a Data Science Portfolio](https://kanger.dev/how-build-data-science-portfolio/)
-
-* [Data Scientist Skills](https://kanger.dev/data-scientist-skills/)
-
-* [Data Analyst Skills](https://kanger.dev/data-analyst-skills/) for Beginners
 
 **Programming**
 
@@ -58,6 +50,16 @@ Mathematics
 * Learn [TensorFlow for Data Science](https://kanger.dev/tensorflow-courses/)
 
 * Spatial Analysis and [GeoSpatial Data Science](https://kanger.dev/learn-geo-spatial-analysis-gis-python-r-courses/)
+
+**Skills Guide**
+
+* How to [Build a Data Science Portfolio](https://kanger.dev/how-build-data-science-portfolio/)
+
+* [Data Scientist Skills](https://kanger.dev/data-scientist-skills/)
+
+* [Data Analyst Skills](https://kanger.dev/data-analyst-skills/) for Beginners
+
+--- 
 
 Data Science Stack 👉🏾 https://kanger.dev/stacks/data-science/
 
