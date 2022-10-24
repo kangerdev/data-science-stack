@@ -18,7 +18,7 @@ Updated Data Science Resources (Study Guides) by [kanger.dev](https://kanger.dev
 
 * Basic [Math for Data Science](https://kanger.dev/basic-math-for-data-science-mathematics-courses/) Beginners Guide
 
-* Best [Linear Algebra Courses for Data Science]([https://kanger.dev/basic-math-for-data-science-mathematics-courses](https://kanger.dev/data-science-linear-algebra-courses-machine-learning-beginners/)/) and Machine Learning
+* Best [Linear Algebra Courses for Data Science](https://kanger.dev/basic-math-for-data-science-mathematics-courses](https://kanger.dev/data-science-linear-algebra-courses-machine-learning-beginners/) and Machine Learning
 
 * Books : [Math books for Data Science](https://news.kanger.dev/book-series/mathematics)
 
