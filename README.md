@@ -5,9 +5,8 @@ Updated Data Science Resources (Study Guides) by [kanger.dev](https://kanger.dev
 
 **Statistics for Data Science**
 
-Statistical Programming
 
-* Essential Concepts - [Basic Statistics for Data Science](https://kanger.dev/basic-statistics-for-data-science-concepts-guide/) - Beginners Guide
+* [Basic Statistics Concepts for Data Science](https://kanger.dev/basic-statistics-for-data-science-concepts-guide/) - Beginners Guide
 
 * [Probability and Statistics for Data Science Courses](https://kanger.dev/learn-statistics-for-data-science-courses/) - Non-programmers
 
