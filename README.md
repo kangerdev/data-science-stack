@@ -14,6 +14,7 @@ Updated Data Science Resources (Study Guides) by [kanger.dev](https://kanger.dev
 
 * [Statistics with R](https://kanger.dev/data-science-statistics-r-programming/) for Data Science
 
+
 **Mathematics For Data Science**
 
 * Basic [Math for Data Science](https://kanger.dev/basic-math-for-data-science-mathematics-courses/) Beginners Guide
@@ -28,6 +29,7 @@ Updated Data Science Resources (Study Guides) by [kanger.dev](https://kanger.dev
 * [Python for Data Science](https://kanger.dev/learn-python-for-data-science-beginners-guide/): A Beginner's Study Guide
 
 * [Python for Beginners](https://kanger.dev/programming-python-for-beginners-career-guide/) Career Guide
+
 
 **Programming**
 
@@ -46,9 +48,18 @@ Updated Data Science Resources (Study Guides) by [kanger.dev](https://kanger.dev
 
 **Specialty**
 
-* Learn [TensorFlow for Data Science](https://kanger.dev/tensorflow-courses/)
+* [AWS Certified Data Analytics — Speciality](https://kanger.dev/aws-certification-path/#8-aws-certified-data-analytics-%E2%80%94-speciality-das-c01)
 
 * Spatial Analysis and [GeoSpatial Data Science](https://kanger.dev/learn-geo-spatial-analysis-gis-python-r-courses/)
+
+* Learn [TensorFlow for Machine Learning](https://kanger.dev/tensorflow-courses/)
+
+* Learn [Machine Learning for Finance](https://kanger.dev/machine-learning-for-finance-courses/) - Career Outlook and Learning resources
+
+* MLOps - [Machine Learning Engineer Certification](https://kanger.dev/mlops-machine-learning-engineer-certifications-ml/) - Professional Programs
+
+* Spatial Analysis and [GeoSpatial Data Science](https://kanger.dev/learn-geo-spatial-analysis-gis-python-r-courses/)
+
 
 **Skills Guide**
 
